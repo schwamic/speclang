@@ -10,4 +10,4 @@ To run the app you need Node installed. All the specs are in [/src](./src/) and 
 
 To run the app, just navigate to the app folders and run `npm install`. After that you can start the apps via `npm run dev`.
 
-You can also delete the `/build` folder and compile it from scratch. Via Claude Code I prompted *"Compile the project."*.
+You can also delete the `/build` folder and compile it from scratch. Open Claude Code from `goal.spec` and prompt *"Compile the project."*.
