@@ -1,4 +1,4 @@
-# SpecLang
+# SpecLang 🐦
 
 Die Spezifikation ist erstmal ein PoC. Ich freue mich auf Input und natürlich Leute die Lust haben SpecLang zu entwickeln. Erster Meilenstein: Mit SpecLang kleine WebApps erstellen können.
 
